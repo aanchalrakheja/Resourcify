@@ -6,7 +6,7 @@ Started on 3rd September 2021
 
 # MOTIVE
 Whenever we think of self-learning anything, we often struggle finding the perfect resources to study from. Be it documentations, youtube videos or courses, we always look for the tried and tested ones.
-So here we decided to find a feasible solution to this problem by creating a website which lists doen all the resources which are quite famous and tried and tested by many people.
+So here we decided to find a feasible solution to this problem by creating a beginner friendly website which lists down all the resources which are quite famous and tried and tested by many people.
 
 # CURRENT FEATURES
 Currently the website offers resources related to web-development - HTML, CSS and JS.
@@ -18,3 +18,5 @@ For the resources we have included some youtube links, some free courses and som
 1) Our aim is to include as many domains as possible and provide multiple choices for resources.
 2) We also plan to include a editor dashboard wherein a user can watch a youtube video and make notes side by side as well as download those notes too.
 3) We also plan to add a BLOG section wherein we will be posting regular updates in the field of technology, some not so common facts and personal expieriences. This would help us build a community of like minded people.
+4) We aim to include a facility of liking the resources which help people so that the resouce gets verified and is of more use for people.
+5) We also look forward to taking suggestions from people about the resouces which helped them in their journey and include them in our website with due credit.
