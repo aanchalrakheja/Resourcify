@@ -47,10 +47,30 @@
     background-color: white;
     color:black;
 }
-@media screen and (max-width:500px)
-{
+@media screen and (max-width:600px){
     #footer-quick-links,#footer-social-media,#footer-about-us{
         width:100%;
+    }
+    #footer-about-us{
+        margin:0px;
+        padding:0rem 1rem;
+        text-align: justify;
+    }
+    #footer-about-us p{
+        font-size:0.8rem;
+    }
+    #footer-quick-links ul{
+        padding:0px;
+    }
+    #footer-social-media ul{
+        padding:0px;
+        text-align: center;
+    }
+    #footer-social-media ul a li{
+        display: inline;
+    }
+    #credit{
+        font-size:0.7rem;
     }
 
 }
