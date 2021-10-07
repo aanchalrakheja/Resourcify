@@ -24,21 +24,22 @@ body{
     background-color: black;
 }
 /* timeline */
-#timeline{
-    margin-top:50px;
+/* #timeline{
+    margin-top:65px;
     color:white;
     padding:20px;
     display:flex;
     justify-content: center;
     align-items: center;
-    max-width:100vw;
-    flex-direction: column;
+    width:100vw;
+    flex-wrap: wrap;
 }
 #timeline h4{
     width:100%;
     text-align:center;
-    font-size:4rem;
-    font-family: 'Alex Brush', cursive;
+    font-size:2.5rem;
+    font-family:cursive;
+    margin-bottom:3rem;
 }
 
 .timeline-container{
@@ -154,5 +155,116 @@ body{
 {
     .timeline-container{
         width:80vw;
+    } */
+/* } */
+#timeline{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    color:white;
+    margin-bottom:2rem;
+}
+.page-heading{
+    color:white;
+    width:100%;
+    text-align:center;
+    font-size:2.5rem;
+    font-family:cursive;
+    margin-bottom:3rem;
+    margin-top:5rem;
+}
+.timeline-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:420px;
+    height:260px;
+    padding:1.5rem;
+    margin:1rem;
+    border:1px dashed white;
+}
+.timeline-image{
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    height:100%;
+    margin-right:2.5rem;
+}
+.timeline-image i{
+    font-size:5rem;
+}
+.timeline-text{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+.timeline-text p{
+    font-size:0.8rem;
+}
+.timeline-text a button{
+    padding:0.5rem 0.8rem;
+    font-size:1rem;
+    border:none;
+    outline: none;
+    background-color: var(--greencolor);
+    font-weight:500;
+    border-radius:20px;
+    transition: 0.5s ease-in-out;
+}
+.timeline-text a button:hover{
+    box-shadow: inset 500px 0px 0px white;
+}
+
+@media screen and (max-width:850px)
+{
+    .timeline-container{
+        margin:0px;
+        border:none;
+    }
+    .container-left-odd{
+        border-left:1px dashed white;
+        border-top:none;
+        border-right:none;
+        border-bottom: 1px dashed white;
+    }
+    .container-left-even{
+        border-right:1px dashed white;
+        border-top:none;
+        border-left:none;
+        border-bottom: 1px dashed white;
+    }
+    .container-right-odd{
+        border-right:1px dashed white;
+        border-top:none;
+        border-left:none;
+        border-bottom: 1px dashed white;
+    }
+    .container-right-even{
+        border-top:none;
+        border-left:1px dashed white;
+        border-right:none;
+        border-bottom: 1px dashed white;
+    }
+}
+
+@media screen and (max-width:600px)
+{
+    .page-heading{
+        font-size:2rem;
+    }
+    .timeline-container{
+        width:90vw;
+        height:fit-content;
+    }
+    .timeline-image{
+        display: none;
+    }
+    .timeline-text p{
+        font-size:0.9rem;
+    }
+    .timeline-text a button{
+        font-size:0.8rem;
+        padding:0.3rem 0.7rem;
     }
 }
