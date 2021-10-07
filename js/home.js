@@ -1,6 +1,6 @@
 let tagline=document.getElementById("title-tagline");
 let text=document.getElementById("title-text");
-let taglineContent="ONE STOP GUIDE FOR ALL WEB DEVELOPMENT RESOURCES".split("");
+let taglineContent="ONE STOP RESOURCE GUIDE FOR UNSTOPPABLE LEARNING".split("");
 let textContent=" Start your self-learning journey with us! ";
 var i=0;
 let navbarIcon=document.getElementById("navbar-icon");
