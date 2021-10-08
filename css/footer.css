@@ -12,6 +12,9 @@
     width:300px;
     margin:0px 20px;
 }
+#footer-about-us p{
+    text-align:justify;
+}
 
 #footer-quick-links{
     width:200px;
@@ -23,6 +26,12 @@
     text-align:center;
     color:black;
     font-size:1.5rem;
+}
+#footer-quick-links ul{
+    padding:0px;
+}
+#footer-social-media ul{
+    padding:0px;
 }
 #footer-quick-links ul a{
     padding:10px;
@@ -38,6 +47,8 @@
 }
 #footer-social-media ul a li{
     list-style: none;
+    /* display: inline;
+    padding:1rem; */
 }
 #credit{
     width:100%;
