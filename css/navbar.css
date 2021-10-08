@@ -9,6 +9,10 @@
 .navbar{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: black;
+    /* background-color: red; */
+}
+.navbar-brand img{
+    width:10%;
 }
 .navbar #navbarNavAltMarkup{
     justify-content: flex-end;
