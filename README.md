@@ -1,4 +1,6 @@
-# RESOURCIFY
+<div align="center">
+	# RESOURCIFY
+</div>
 - One stop resource guide for web development.
 - Aiming to create the best website to start your self-learning journey!
 
@@ -13,11 +15,11 @@ Started on **3 SEPTEMBER 2021**
 
 Tagline - **One Stop Resource Guide for Unstoppable Learing**
 
-# MOTIVE
+### MOTIVE
 Whenever we think of self-learning anything, we often struggle finding the perfect resources to study from. Be it documentations, youtube videos or courses, we always look for the tried and tested ones.
 So here we decided to find a feasible solution to this problem by creating a beginner friendly website which lists down all the resources which are quite famous and tried and tested by many people.
 
-# CURRENT FEATURES
+### CURRENT FEATURES
 Currently the website offers resources related to web-development - HTML, CSS and JS.
 Initially on the homepage we have a roadmap for web developement which leads to the respective resources. 
 The resources page can also be accessed indivisually from the navbar.
