@@ -1,8 +1,3 @@
-
-#RESOURCIFY
-- One stop resource guide for web development.
-- Aiming to create the best website to start your self-learning journey!
-
 <div align="center">
 	
 ![image](https://user-images.githubusercontent.com/68388581/136546904-60d29684-018c-4d88-b7ee-3e15560b1904.png)
