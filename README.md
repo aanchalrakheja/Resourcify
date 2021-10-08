@@ -1,9 +1,7 @@
 <div align="center">
 	
 ![image](https://user-images.githubusercontent.com/68388581/136546904-60d29684-018c-4d88-b7ee-3e15560b1904.png)
-
-<a href="https://github.com/aanchalrakheja/Resourcify/graphs/contributors"><img src="https://img.shields.io/github/contributors/aanchalrakheja/Resourcify?color=brightgreen"></a>
-
+	
 <a href="https://github.com/aanchalrakheja/Resourcify"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
 <a href="https://github.com/aanchalrakheja/Resourcify"><img src="https://img.shields.io/badge/Built%20by-developers%20%3C%2F%3E-0059b3"></a>
 <a href="https://github.com/aanchalrakheja/Resourcify"><img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=yellow"></a>
