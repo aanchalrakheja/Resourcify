@@ -68,24 +68,24 @@ If you think that you can add a new feature or want to fix a bug. We invite you 
 
    Run command `git init`
 
-4. Fork the [repository](https://github.com/makesmatheasy/makesmatheasy).
+4. Fork the [repository](https://github.com/aanchalrakheja/Resourcify).
 
 5. Clone your forked repository of project.
 
 ```git clone
-git clone https://github.com/<your_username>/makesmatheasy.git
+git clone https://github.com/<your_username>/Resourcify.git
 ```
 
 6. Navigate to the project directory.
 
 ```
-cd makesmatheasy
+cd Resourcify
 ```
 
 7. Add a reference(remote) to the original repository.
 
 ```
-git remote add upstream https://github.com/makesmatheasy/makesmatheasy.git
+git remote add upstream https://github.com/aanchalrakheja/Resourcify.git
 ```
 
 8. Check the remotes for this repository.
