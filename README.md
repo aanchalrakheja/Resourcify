@@ -1,5 +1,5 @@
-<div align="center">
-	# RESOURCIFY
+<div align="center" font-weight="600">
+	 RESOURCIFY
 </div>
 - One stop resource guide for web development.
 - Aiming to create the best website to start your self-learning journey!
