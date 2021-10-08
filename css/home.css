@@ -34,7 +34,7 @@ body::after{
     top:0px;
     height:100vh;
     width:100vw;
-     background:url("/Assets/Asset\ 4.png");
+     background:url("/Assets/background.png");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
