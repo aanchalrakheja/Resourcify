@@ -49,6 +49,13 @@ Other Tech/Libraries
 
 ![image](https://user-images.githubusercontent.com/68388581/136647197-32575e24-de96-4be4-9413-bcd4296d9025.png)
 
+### IMPORTANT POINTS TO KEEP IN MIND WHILE CONTRIBUTING
+1) Dont forget to add the links for bootstrap and fontawesome in your <head> tag.
+2) To add NAVBAR to nay page, copy the code for navbar from home page(index.html) and include navbar.css and navbar.js for styling and entire functionality.(Made using bootstrap)
+3) To add FOOTER to any page, copy the code for footer from Topic Store page (pages-> topic-store.html) and include footer.css for styling.
+4) Add all the images to ASSETS folder only
+	
+
 ### Future Scope
 
 1) Our aim is to include as many domains as possible and provide multiple choices for resources.
