@@ -42,8 +42,12 @@ For the resources we have included some youtube links, some free courses and som
 Other Tech/Libraries
 
 - [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/) for UI
+- [FontAwesome](https://fontawesome.com/) for Icons
 
 ---
+### Folder Structure
+
+![image](https://user-images.githubusercontent.com/68388581/136647197-32575e24-de96-4be4-9413-bcd4296d9025.png)
 
 ### Future Scope
 
